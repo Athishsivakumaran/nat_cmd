@@ -48,7 +48,7 @@ Command: wc -l cat.py
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/nat-cli.git
+git clone https://github.com/Athishsivakumaran/nat-cmd.git
 cd nat-cli
 ```
 
